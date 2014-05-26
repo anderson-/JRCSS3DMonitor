@@ -60,7 +60,7 @@ public class RCSoccerSimulation3DMonitor extends DrawingPanel3D {
         Connection connection;
 
         if (fakeConnection) {
-            connection = new FakeConnection("Monitor3.txt", false);
+            connection = new FakeConnection("FakeServer.txt", false);
         } else {
 //            new Thread() {
 //                @Override
