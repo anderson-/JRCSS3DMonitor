@@ -1,0 +1,16 @@
+TODO:
+
+Agent:
+    - criar effectors
+    - Terminar perceptors
+    
+    - criar classe para controle geral (cognition)
+
+Monitor:
+    - mapear comandos |teclado| -> |mensagem tcp|
+    - arrumar TransformNode
+
+Both:
+    - conexão |Agent + Monitor|
+    - criar PerfectVisionPerceptor
+    - USAR g.scale() NO LUGAR DE SCALE!!!!
